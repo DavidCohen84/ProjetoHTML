@@ -18,3 +18,8 @@ body{
     background-color: var(--preto-fundo);
     color:var(--branco-principal);
 }
+
+.tela__principal{
+    background-image: url("img/Background.png");
+}
+
